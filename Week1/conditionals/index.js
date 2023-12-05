@@ -49,5 +49,5 @@ switch (x) {
         console.log("No value")
         break;
 }
-
-// git remote add origin https://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@github.com/donsalvy/altschool-week.git
+git remote add origin https://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@github.com/donsalvy/altschool-week.git
+// 
